@@ -20,8 +20,7 @@ namespace vtoraya_rabota
             Console.WriteLine("Введите d:");
             double d = double.Parse(Console.ReadLine());
 
-            double e = 0;
-
+            double e;
 
             if (x * y > 3) 
             {
@@ -31,12 +30,12 @@ namespace vtoraya_rabota
             { 
                 e = 3 * Math.Min(x, Math.Min(y, Math.Max(c * x, d * y)));
             }
-            else if (x * y < 0)
+            else
             { 
                 e = Math.Pow(2, c * d) - x;
             }
 
-            Console.WriteLine($"Результат: e= {e}");
+                Console.WriteLine($"Результат: e= {e}");
         }
     }
 }

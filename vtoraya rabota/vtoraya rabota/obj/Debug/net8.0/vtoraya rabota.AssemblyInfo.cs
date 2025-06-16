@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vtoraya rabota")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa7ef06ff783fe04631c86aa64aef3ff28664dcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf0b7bc5158525accd2ec77d73ef5bcd012d0297")]
 [assembly: System.Reflection.AssemblyProductAttribute("vtoraya rabota")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vtoraya rabota")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
