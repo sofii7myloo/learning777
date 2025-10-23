@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("vtoraya rabota")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("pervai cs")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a38aca790bc01cf54f462b7afaba010c1c3d7b7")]
-[assembly: System.Reflection.AssemblyProductAttribute("vtoraya rabota")]
-[assembly: System.Reflection.AssemblyTitleAttribute("vtoraya rabota")]
+[assembly: System.Reflection.AssemblyProductAttribute("pervai cs")]
+[assembly: System.Reflection.AssemblyTitleAttribute("pervai cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
